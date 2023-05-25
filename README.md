@@ -1,0 +1,3 @@
+# typeEjercicios
+ejecutar 
+tsc -w
